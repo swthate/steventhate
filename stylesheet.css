@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Colorado';
+    src: url('Colorado-Regular.eot');
+    src: local('Colorado Regular'), local('Colorado-Regular'),
+        url('Colorado-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Colorado-Regular.woff2') format('woff2'),
+        url('Colorado-Regular.woff') format('woff'),
+        url('Colorado-Regular.ttf') format('truetype'),
+        url('Colorado-Regular.svg#Colorado-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Galloway';
+    src: url('Galloway-Regular.eot');
+    src: local('Galloway Regular'), local('Galloway-Regular'),
+        url('Galloway-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Galloway-Regular.woff2') format('woff2'),
+        url('Galloway-Regular.woff') format('woff'),
+        url('Galloway-Regular.ttf') format('truetype'),
+        url('Galloway-Regular.svg#Galloway-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
